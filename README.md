@@ -1,5 +1,5 @@
 # TaskTracker-RestAPI
-Task Tracker API with PostgreSQL Backend
+Task Management API with PostgreSQL Backend
 
 # Instructions for Task Tracker RESTful API - Quick Start Guide
 ### Step 1: Set Up my Project
